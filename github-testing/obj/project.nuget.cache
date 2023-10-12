@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgvIbQEGthoTiSqu1/KwtxlSt2B18x6iGzQEcXle5MXtteoM4l3QXwXhdmIIjyiDfHpEP18TKzsNBw61xLmzNA==",
+  "success": true,
+  "projectFilePath": "/Users/carolinearbejde/Documents/GitHub/github-testing/github-testing/github-testing.csproj",
+  "expectedPackageFiles": [
+    "/Users/carolinearbejde/.nuget/packages/octokit/8.0.1/octokit.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
