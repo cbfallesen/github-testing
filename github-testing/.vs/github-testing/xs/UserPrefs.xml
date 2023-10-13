@@ -1,25 +1,29 @@
 ﻿<Properties StartupConfiguration="{86B9D644-F7BA-4151-9446-69E5BCF0A6E3}|https">
-  <MonoDevelop.Ide.ItemProperties.github-testing PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitHubService.cs">
     <Files>
-      <File FileName="Program.cs" Line="20" Column="36" />
+      <File FileName="DTOIssueModel.cs" Line="8" Column="33" />
+      <File FileName="Program.cs" Line="10" Column="45" />
+      <File FileName="GitHubService.cs" Line="12" Column="15" />
+      <File FileName="DTOLabelModel.cs" Line="9" Column="32" />
+      <File FileName="DTOAssigneeModel.cs" Line="8" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="github-testing">
             <Node name="github-testing">
-              <Node name="Program.cs" selected="True" />
+              <Node name="GitHubService.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.github-testing PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

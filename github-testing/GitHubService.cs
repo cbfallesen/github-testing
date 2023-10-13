@@ -9,7 +9,7 @@ namespace github_testing
 		{
         }
 
-        public async Task GetAllIssues(string owner, string repository, string token, RepositoryIssueRequest filter)
+        public async Task<List<DTOIssueModel>> GetAllIssues(string owner, string repository, string token, RepositoryIssueRequest filter)
 		{
             var github = new GitHubClient(new ProductHeaderValue(repository));
 
