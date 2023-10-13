@@ -26,3 +26,5 @@
 /Users/carolinearbejde/Documents/GitHub/github-testing/github-testing/obj/Debug/net7.0/github-testing.pdb
 /Users/carolinearbejde/Documents/GitHub/github-testing/github-testing/obj/Debug/net7.0/github-testing.genruntimeconfig.cache
 /Users/carolinearbejde/Documents/GitHub/github-testing/github-testing/obj/Debug/net7.0/ref/github-testing.dll
+/Users/carolinearbejde/Documents/GitHub/github-testing/github-testing/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/carolinearbejde/Documents/GitHub/github-testing/github-testing/bin/Debug/net7.0/System.Security.Permissions.dll
